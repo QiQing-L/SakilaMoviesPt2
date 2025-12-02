@@ -9,5 +9,7 @@ public class DataManager {
         this.dataSource = dataSource;
     }
 
-
+    public DataSource getDataSource() {
+        return dataSource;
+    }
 }
