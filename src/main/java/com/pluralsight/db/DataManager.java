@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.db;
 
 import javax.sql.DataSource;
 
